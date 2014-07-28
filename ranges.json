@@ -1,0 +1,404 @@
+[
+  {
+    "name": {
+      "uk": {
+        "long": "Верховна Рада Украины",
+        "short": "Верховна Рада"
+      },
+      "ru": {
+        "long": "Верховная Рада України",
+        "short": "Верховная Рада"
+      },
+      "en": {
+        "long": "Verkhovna Rada of Ukraine",
+        "short": "Verkhovna Rada"
+      }
+    },
+    "ranges": [
+      "193.19.152.0/22"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Державна служба спеціального зв’язку та захисту інформації України",
+        "short": "Держспецзв’язку"
+      },
+      "ru": {
+        "long": "Государственная служба специальной связи и защиты информации Украины",
+        "short": "Госспецсвязи"
+      },
+      "en": {
+        "long": "State Service of Special Communication and Information Protection of Ukraine",
+        "short": "Derzhspetszviazok"
+      }
+    },
+    "ranges": [
+      "193.29.204.0/24"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Секретаріат Кабінету Міністрів України",
+        "short": "Секретаріат Кабміну"
+      },
+      "ru": {
+        "long": "Секретариат Кабинета Министров Украины",
+        "short": "Секретариат Кабмина"
+      },
+      "en": {
+        "long": "Secretariat of the Cabinet of Ministers of Ukraine",
+        "short": "Secretariat of the Cabmin"
+      }
+    },
+    "ranges": [
+      "195.78.68.0/23"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Центральна виборча комісія України",
+        "short": "ЦВК"
+      },
+      "ru": {
+        "long": "Центральная избирательная комиссия Украины",
+        "short": "ЦИК"
+      },
+      "en": {
+        "long": "Central election commission of Ukraine",
+        "short": "Central election commission"
+      }
+    },
+    "ranges": [
+      "195.230.157.0/26"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Українські спеціальні системи",
+        "short": "Укрспецсистеми"
+      },
+      "ru": {
+        "long": "Украинские специальные системы",
+        "short": "Укрспецсистемы"
+      },
+      "en": {
+        "long": "Ukrainian Special Systems",
+        "short": "Ukrainian Special Systems"
+      }
+    },
+    "ranges": [
+      "213.156.89.0/24",
+      "213.156.90.0/23",
+      "213.156.92.0/24"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Державна служба України з надзвичайних ситуацій",
+        "short": "ДСНС"
+      },
+      "ru": {
+        "long": "Государственная служба Украины по чрезвычайным ситуациям",
+        "short": "ГСЧС"
+      },
+      "en": {
+        "long": "State Emergency Service of Ukraine",
+        "short": "State Emergency Service"
+      }
+    },
+    "ranges": [
+      "194.0.148.0/24"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Міністерство економічного розвитку і торгівлі України",
+        "short": "Мінекономрозвитку"
+      },
+      "ru": {
+        "long": "Министерство экономического развития и торговли Украины",
+        "short": "Минэкономразвития"
+      },
+      "en": {
+        "long": "Ministry of Economic Development and Trade of Ukraine",
+        "short": "Ministry of Economic Development"
+      }
+    },
+    "ranges": [
+      "80.91.163.160/28"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Міністерство оборони України",
+        "short": "Міноборони"
+      },
+      "ru": {
+        "long": "Министерство обороны Украины",
+        "short": "Минобороны"
+      },
+      "en": {
+        "long": "Ministry of Defense of Ukraine",
+        "short": "Ministry of Defense"
+      }
+    },
+    "ranges": [
+      "93.183.201.144/28",
+      "77.222.137.112/29",
+      "77.222.137.192/29",
+      "77.222.137.224/29",
+      "80.91.161.160/29",
+      "93.183.201.144/28",
+      "77.222.137.216/29",
+      "77.222.137.208/29",
+      "77.222.137.240/29",
+      "77.222.137.136/29",
+      "77.222.137.184/29",
+      "77.222.137.104/29",
+      "77.222.137.160/29",
+      "77.222.137.96/29",
+      "77.222.137.200/29",
+      "77.222.137.232/29"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Міністерство юстиції України",
+        "short": "Мінюст"
+      },
+      "ru": {
+        "long": "Министерство юстиции Украины",
+        "short": "Минюст"
+      },
+      "en": {
+        "long": "Ministry of Justice of Ukraine",
+        "short": "Ministry of Justice"
+      }
+    },
+    "ranges": [
+      "194.93.169.192/26",
+      "194.93.169.64/27",
+      "193.111.173.0/24"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Міністерство енергетики та вугільної промисловості України",
+        "short": "Міненерго"
+      },
+      "ru": {
+        "long": "Министерство энергетики и угольной промышленности Украины",
+        "short": "Минэнерго"
+      },
+      "en": {
+        "long": "Ministry of Energy and Coal Industry of Ukraine",
+        "short": "Ministry of Energy"
+      }
+    },
+    "ranges": [
+      "195.123.6.0/24"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Департамент Служби Безпеки України у Міністерстве внутрішніх справ України",
+        "short": "Департамент СБУ у МВС"
+      },
+      "ru": {
+        "long": "Департамент Службы Безопасности Украины в Министерстве внутренних дел Украины",
+        "short": "Департамент СБУ в МВД"
+      },
+      "en": {
+        "long": "Departament of State Security Service in the Ministry of Internal Affairs of Ukraine",
+        "short": "Departament of SBU in the MVS"
+      }
+    },
+    "ranges": [
+      "91.231.142.0/23"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Міністерство внутрішніх справ України",
+        "short": "МВС"
+      },
+      "ru": {
+        "long": "Министерство внутренних дел Украины",
+        "short": "МВД"
+      },
+      "en": {
+        "long": "Ministry of Internal Affairs of Ukraine",
+        "short": "Ministry of Internal Affairs"
+      }
+    },
+    "ranges": [
+      "212.1.77.112/28",
+      "195.230.131.112/29",
+      "212.1.71.124/30"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Міністерство охорони здоров'я України",
+        "short": "Мінздоров'я"
+      },
+      "ru": {
+        "long": "Министерство здравоохранения Украины",
+        "short": "Минздрав"
+      },
+      "en": {
+        "long": "Ministry of Healthcare of Ukraine",
+        "short": "Ministry of Healthcare"
+      }
+    },
+    "ranges": [
+      "62.244.28.192/28"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Міністерство молоді та спорту України",
+        "short": "Міністерство молоді та спорту"
+      },
+      "ru": {
+        "long": "Министерство молодежи и спорта Украины",
+        "short": "Министерство молодежи и спорта"
+      },
+      "en": {
+        "long": "Ministry of Youth and Sports of Ukraine",
+        "short": "Ministry of Youth and Sports"
+      }
+    },
+    "ranges": [
+      "213.186.194.120/29"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Міністерство аграрної політики та продовольства України",
+        "short": "Мінагрополітики"
+      },
+      "ru": {
+        "long": "Министерство аграрной политики и продовольствия Украины",
+        "short": "Минагрополитики"
+      },
+      "en": {
+        "long": "Ministry of Agrarian Policy and Food of Ukraine",
+        "short": "Ministry of Agrarian Policy and Food"
+      }
+    },
+    "ranges": [
+      "195.245.200.0/24",
+      "194.93.184.0/26"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Міністерство фінансів України",
+        "short": "Мінфін"
+      },
+      "ru": {
+        "long": "Министерство финансов Украины",
+        "short": "Минфин"
+      },
+      "en": {
+        "long": "Ministry of finance of Ukraine",
+        "short": "Ministry of finance"
+      }
+    },
+    "ranges": [
+      "195.190.152.0/24"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Полтавська обласна державна адміністрація",
+        "short": "Полтавська ОДА"
+      },
+      "ru": {
+        "long": "Полтавская областная государственная администрация",
+        "short": "Полтавская ОГА"
+      },
+      "en": {
+        "long": "Poltava Region State Administration",
+        "short": "Poltava administration"
+      }
+    },
+    "ranges": [
+      "194.44.38.0/23"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Івано-Франківська обласна державна адміністрація",
+        "short": "Івано-Франківська ОДА"
+      },
+      "ru": {
+        "long": "Ивано-Франковская областная государственная администрация",
+        "short": "Ивано-Франковская ОГА"
+      },
+      "en": {
+        "long": "Ivano-Frankivsk Region State Administration",
+        "short": "Ivano-Frankivsk administration"
+      }
+    },
+    "ranges": [
+      "194.44.238.0/24"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Харківська обласна державна адміністрація",
+        "short": "Харківська ОДА"
+      },
+      "ru": {
+        "long": "Харьковская областная государственная администрация",
+        "short": "Харьковская ОГА"
+      },
+      "en": {
+        "long": "Kharkiv Region State Administration",
+        "short": "Kharkiv administration"
+      }
+    },
+    "ranges": [
+      "194.29.205.0/24"
+    ]
+  },
+  {
+    "name": {
+      "uk": {
+        "long": "Укрінтеренерго",
+        "short": "Укрінтеренерго"
+      },
+      "ru": {
+        "long": "Укринтерэнерго",
+        "short": "Укринтерэнерго"
+      },
+      "en": {
+        "long": "Ukrinterenergo",
+        "short": "Ukrinterenergo"
+      }
+    },
+    "ranges": [
+      "213.160.147.192/29"
+    ]
+  }
+]
